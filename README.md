@@ -1,9 +1,9 @@
 Sharing Cart
 ============
 
-Version 3.3, release 2 - 2017.12.20
+Version 3.3, release 3 - 2018.01.24
 
-The "master" branch is no longer compatible with Moodle 3.0 or earlier.
+The "master" branch is no longer compatible with Moodle 3.2 or earlier.
 
 * Moodle 3.2 => "MOODLE_32_STABLE" branch
 * Moodle 2.2 => "MOODLE_22_STABLE" branch
@@ -11,6 +11,8 @@ The "master" branch is no longer compatible with Moodle 3.0 or earlier.
 
 Change Log
 ----------
+* 3.3, release 3
+  * No longer compatible with Moodle 3.2 or earlier
 * 3.3, release 2
   * Fix problem in PostgreSQL
   * Fix warning messages from using deprecated functions
